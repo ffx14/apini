@@ -39,7 +39,7 @@ We prefer to do it this way as it's very important to achieve as good distributi
 We want to deliver on a technical level rather than overhype it so it makes more sense to have ICO spanning 170 days.
  
 First **400 000 APN** together with **10 BNB** will be used to create a liquidity pool on pair APN/BNB. 
-Starting from 23.10.2021 until 11.04.2022 we will do a daily swap of 40 000 APN.
+Starting from 22.11.2021 until 11.05.2022 we will do a daily swap of 40 000 APN.
  
 You can track daily swaps following this address: [0xFf1c3692b614F354e8e93f163BDdF101E0E46b72](https://bscscan.com/token/0xc06b2647149b3fa3dbb677a0e885f481f6eace52?a=0xFf1c3692b614F354e8e93f163BDdF101E0E46b72)  
 or get an APN on [PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0xc06b2647149b3fa3dbb677a0e885f481f6eace52)

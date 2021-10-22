@@ -1,5 +1,3 @@
-# Website
-
 Apini documentation built using [Docusaurus 2](https://docusaurus.io/)
 
 ### Installation
