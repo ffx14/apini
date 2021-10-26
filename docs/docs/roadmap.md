@@ -38,7 +38,7 @@ Auction transfers is a way to get assets in & out of apini in fastests and cheap
 Goal is to have a way for inter-chain transfers without using bridges.
 
 10. **Q3 2022** - Bring coins from chains without smart contracts  
-Bring BTC, LTC, DODGE to apini
+Bring BTC, LTC, DOGE to apini
 
 11. **Q4 2022** - Validator stake as collateral 
 
